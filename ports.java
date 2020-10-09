@@ -28,7 +28,7 @@ public class ports {
                 a++;
                 if (a == 10) {
                     a++;
-                } else if (a == 256) {
+                } else if (a == 255) {
                     cari = false;
                 }
                 c = 0;
